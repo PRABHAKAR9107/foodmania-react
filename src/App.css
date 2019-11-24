@@ -1,0 +1,15 @@
+body {
+  font-family: "open Sans", sans-serif !important;
+}
+
+.text-slower {
+  font-family: "Courgette", cursive;
+}
+
+.text-orange {
+  color: #f15025;
+}
+
+.letter-place {
+  letter-spacing: 0.5rem;
+}
